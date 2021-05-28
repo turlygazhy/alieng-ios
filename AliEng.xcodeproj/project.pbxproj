@@ -24,6 +24,7 @@
 		3419D66F265E1B8000E24405 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3419D66E265E1B8000E24405 /* DetailViewController.swift */; };
 		3419D672265E1D5A00E24405 /* DetailTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3419D670265E1D5A00E24405 /* DetailTableCell.swift */; };
 		3419D673265E1D5A00E24405 /* DetailTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3419D671265E1D5A00E24405 /* DetailTableCell.xib */; };
+		FB726C922661204F00690782 /* AppUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB726C912661204F00690782 /* AppUtil.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		3419D66E265E1B8000E24405 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		3419D670265E1D5A00E24405 /* DetailTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailTableCell.swift; sourceTree = "<group>"; };
 		3419D671265E1D5A00E24405 /* DetailTableCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailTableCell.xib; sourceTree = "<group>"; };
+		FB726C912661204F00690782 /* AppUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppUtil.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 		3419D642265DCDC600E24405 /* AliEng */ = {
 			isa = PBXGroup;
 			children = (
+				FB726C902661202900690782 /* tool */,
 				3419D66D265E1B0200E24405 /* Detail */,
 				3419D66A265E16A700E24405 /* Extensions */,
 				3419D665265E145100E24405 /* Cell */,
@@ -154,6 +157,14 @@
 				3419D66E265E1B8000E24405 /* DetailViewController.swift */,
 			);
 			path = Detail;
+			sourceTree = "<group>";
+		};
+		FB726C902661202900690782 /* tool */ = {
+			isa = PBXGroup;
+			children = (
+				FB726C912661204F00690782 /* AppUtil.swift */,
+			);
+			path = tool;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,6 +246,7 @@
 				3419D65B265DCE4F00E24405 /* MainTabViewController.swift in Sources */,
 				3419D668265E146F00E24405 /* LectureCollectionCell.swift in Sources */,
 				3419D644265DCDC600E24405 /* AppDelegate.swift in Sources */,
+				FB726C922661204F00690782 /* AppUtil.swift in Sources */,
 				3419D66C265E16B900E24405 /* Exten.swift in Sources */,
 				3419D646265DCDC600E24405 /* SceneDelegate.swift in Sources */,
 				3419D662265DD0DE00E24405 /* MyDialogsViewController.swift in Sources */,
