@@ -29,6 +29,7 @@
 		FB726C9B2661221000690782 /* Lesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB726C9A2661221000690782 /* Lesson.swift */; };
 		FB726C9F2661222B00690782 /* Dialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB726C9E2661222B00690782 /* Dialog.swift */; };
 		FB726CA22661224400690782 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB726CA12661224400690782 /* Word.swift */; };
+		FB726CA5266124D100690782 /* lesson.json in Resources */ = {isa = PBXBuildFile; fileRef = FB726CA4266124D100690782 /* lesson.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		FB726C9A2661221000690782 /* Lesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson.swift; sourceTree = "<group>"; };
 		FB726C9E2661222B00690782 /* Dialog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dialog.swift; sourceTree = "<group>"; };
 		FB726CA12661224400690782 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
+		FB726CA4266124D100690782 /* lesson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = lesson.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				3419D647265DCDC600E24405 /* ViewController.swift */,
 				3419D64C265DCDC600E24405 /* Assets.xcassets */,
 				3419D651265DCDC600E24405 /* Info.plist */,
+				FB726CA4266124D100690782 /* lesson.json */,
 			);
 			path = AliEng;
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				3419D669265E146F00E24405 /* LectureCollectionCell.xib in Resources */,
 				3419D673265E1D5A00E24405 /* DetailTableCell.xib in Resources */,
 				3419D64B265DCDC600E24405 /* Main.storyboard in Resources */,
+				FB726CA5266124D100690782 /* lesson.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

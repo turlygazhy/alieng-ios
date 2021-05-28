@@ -10,7 +10,7 @@ import UIKit
 class LectureViewController: UIViewController ,UICollectionViewDelegate, UICollectionViewDataSource,UICollectionViewDelegateFlowLayout{
     
     @IBOutlet weak var itemCollectionView: UICollectionView!
-    var titleArray = [String]()
+    var lessons = [Lesson]()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,7 +21,7 @@ class LectureViewController: UIViewController ,UICollectionViewDelegate, UIColle
     
     
     func defaultSettings() {
-        titleArray = ["Present Simple","Past Simple","Future Simple","Pronouns","Questions","To be","Hobbies","Уакытты айту","Guests","Family and friends","Meeting friends"]
+        lessons = DataService.instance.lessons
         itemCollectionView.register(UINib(nibName: "LectureCollectionCell", bundle: nil), forCellWithReuseIdentifier: "lec")
         
         itemCollectionView.delegate = self
@@ -41,7 +41,7 @@ class LectureViewController: UIViewController ,UICollectionViewDelegate, UIColle
     }
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
        
-        return titleArray.count
+        return lessons.count
     }
     
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
@@ -65,8 +65,8 @@ class LectureViewController: UIViewController ,UICollectionViewDelegate, UIColle
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
        
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "lec", for: indexPath) as! LectureCollectionCell
-        let theme = titleArray[indexPath.item]
-        cell.nameLabel.text = theme
+        let theme = lessons[indexPath.item]
+        cell.nameLabel.text = theme.name
         cell.numberLabel.text = "\(indexPath.item)"
         return cell
         
@@ -74,10 +74,10 @@ class LectureViewController: UIViewController ,UICollectionViewDelegate, UIColle
     
     
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-        let theme = titleArray[indexPath.item]
+        let theme = lessons[indexPath.item]
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
         let VC = storyboard.instantiateViewController(withIdentifier: "DetailViewController") as! DetailViewController
-        VC.selectedTheme = theme
+        VC.selectedTheme = theme.name
         self.navigationController?.pushViewController(VC, animated: true)
         
     }
