@@ -1,0 +1,1239 @@
+[
+  {
+    "id": 1,
+    "position": 1,
+    "name": "Present Simple",
+    "lectureLink": "y3flZud4kmc",
+    "practiceLink": "WMONOvF_9Ro",
+    "dialogs": [
+      {
+        "id": 1,
+        "name": "Do you study at university?",
+        "textKz": "-Сен университеттте оқисың ба?\n-Иа, мен Рид Колледжде оқимын\n- Сен ше?\n-Мен Қазақ Ұлттық Университетінде оқимын, екішні курс студентімін",
+        "textEng": "- Do you study at university?\n- I do, I study in Reed College\n-  And you?\n- I study at Kazakh National University. I am a second year  student.",
+        "videoLink": "kXPz146hDfo"
+      },
+      {
+        "id": 2,
+        "name": "What do you do?",
+        "textKz": "-Сен немен айналысасың?\n-Мен мектепте мұғаліммін.  Сен ше?\n- Мен банкте жұмыс істеймін. Мен банк менеджерімін.",
+        "textEng": "- What do you do?\n- I am a teacher at school. And you?\n-  I work in a bank. I am a bank manager.",
+        "videoLink": "ZVr4FpPoY7w"
+      },
+      {
+        "id": 3,
+        "name": "What does your sister do?",
+        "textKz": "-Сенің апайың немен айналысады?\n-Ол үлкен компанияда юрист. Сенің апайың ше?\n- Ол маркетолог ретінде жұмыс істейді\n-  Түсінікті.",
+        "textEng": "- What does your sister do?\n- She is a lawyer in a big company. How about your sister?\n-  She works as a marketer\n- I see",
+        "videoLink": "TGwe7SSy36I"
+      },
+      {
+        "id": 4,
+        "name": "What do you like to do in your free time?",
+        "textKz": "-Сен бос уақытында не істегенді ұнатасың?\n-Мен гитара ойнаганды ұнатамын, өлең айтамын\n- Күшті\n- Ал сен?\n- Мен кітап оқығанды  өте  ұнатамын",
+        "textEng": "- What do you like to do in your free time?\n- Well, I like to play my guitar, sing songs\n– Cool\n- And you?\n- I really like to read books.",
+        "videoLink": "0RPJWj6RRSI"
+      },
+      {
+        "id": 5,
+        "name": "What does your daughter like to do?",
+        "textKz": "-Сенің қызың не жақсы көреді?\n-Ой, көп нәрсені ұнатады. Ол сурет салғанды ұнатады.\n- О керемет\n- Сенің ұлың ше?\n- Ол ағаларымен баскетбол ойнағанды ұнатады",
+        "textEng": "- What does your daughter like to do?\n Oh, a lot of things. She really likes to paint\n-  Oh nice\n- And your son?\n-  He likes to play basketball with his brothers",
+        "videoLink": "uToWYnaMioE"
+      }
+    ],
+    "vocabulary": [
+      {
+        "id": 1,
+        "wordKz": "Жұмыс істеу",
+        "wordEng": "work (уорк)",
+        "useSample": "I work in a school – Мен мектепте жұмыс істеймін"
+      },
+      {
+        "id": 2,
+        "wordKz": "Тұру, өмір сүру",
+        "wordEng": "live (лив)",
+        "useSample": "I live in Almaty – Мен Алматыда тұрамын"
+      },
+      {
+        "id": 3,
+        "wordKz": "Ұнату, жақсы көру",
+        "wordEng": "like  (лайк)",
+        "useSample": "I like sports  - Мен спортты ұнатамын"
+      },
+      {
+        "id": 4,
+        "wordKz": "Бару, жүру",
+        "wordEng": "go (гоу)",
+        "useSample": "I go to work – Мен жұмысқа барамын"
+      },
+      {
+        "id": 5,
+        "wordKz": "Көру",
+        "wordEng": "Watch (уотч)",
+        "useSample": "She watches TV – Ол телевизор көреді"
+      },
+      {
+        "id": 6,
+        "wordKz": "Тыңдау",
+        "wordEng": "Listen to",
+        "useSample": "He listens to music – Ол музыка тыңдайды"
+      },
+      {
+        "id": 7,
+        "wordKz": "Бар, ие болу",
+        "wordEng": "Have (хәв)",
+        "useSample": "Do you have a brother?   - Сенің ағаң бар ма?"
+      },
+      {
+        "id": 8,
+        "wordKz": "Оқу (кітап)",
+        "wordEng": "Read (рид)",
+        "useSample": "I like to read books – Мен кітап оқығанды ұнатамын"
+      },
+      {
+        "id": 9,
+        "wordKz": "Мен",
+        "wordEng": "I",
+        "useSample": ""
+      },
+      {
+        "id": 10,
+        "wordKz": "Сен, сіз",
+        "wordEng": "You",
+        "useSample": ""
+      },
+      {
+        "id": 11,
+        "wordKz": "біз",
+        "wordEng": "We",
+        "useSample": ""
+      },
+      {
+        "id": 12,
+        "wordKz": "олар",
+        "wordEng": "They",
+        "useSample": ""
+      },
+      {
+        "id": 13,
+        "wordKz": "ол (Ұл бала)",
+        "wordEng": "He",
+        "useSample": ""
+      },
+      {
+        "id": 14,
+        "wordKz": "ол (Қыз бала)",
+        "wordEng": "She",
+        "useSample": ""
+      },
+      {
+        "id": 15,
+        "wordKz": "ол ( Жансыз нәрсе)",
+        "wordEng": "It",
+        "useSample": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "position": 2,
+    "name": "Past Simple",
+    "lectureLink": "56Ac8ZC73oA",
+    "practiceLink": "TGno0HUqiB0",
+    "dialogs": [
+      {
+        "id": 6,
+        "name": "What did you do yesterday?",
+        "textKz": "-Сен кеше не істедің?\n-Мен кино көрдім. Сен?\n- Мен үйде болдым, кітап оқыдым",
+        "textEng": "- What did you do yesterday?\n- I watched a film. You?\n-  I stayed at home and read a book.",
+        "videoLink": "nWBTfjzulsw"
+      },
+      {
+        "id": 7,
+        "name": "Tell me about your last job",
+        "textKz": "-Өзіңнің соңғы жұмысың туралы айтып берші\n-Әрине, мен LG компаниясында жұмыс істедім,  мен программист болдым\n- Сен онда қанша жыл жұмыс істедің?\n- Бес жыл",
+        "textEng": "- Tell me about your last job\n- Sure, I worked for LG, I was an IT specialist\n-   How many years did you work there?\n- Five years",
+        "videoLink": "SwsrscLYlp0"
+      },
+      {
+        "id": 8,
+        "name": "Did you travel last summer?",
+        "textKz": "-Өткен жазда саяхаттадың ба?\n-Жоқ, сен ше?\n- Иа, мен жаұняммен Туркияға бардым. Керемет болды",
+        "textEng": "- Did you travel last summer?\n- I didn’t, and you?\n-  Yes, I visited Turkey with my family. It was awesome!",
+        "videoLink": "wm00M-diXx0"
+      },
+      {
+        "id": 9,
+        "name": "Where did you go last week?",
+        "textKz": "-Өткен аптада қайда бардың?\n-Мен туыстарыма бардым. Сен?\n- Мен достарыммен кездестім. Біз кинотеатрға бардық",
+        "textEng": "- Where did you go last week?\n- I went to my relatives. And you?\n-  I met with my friends. We went to a cinema.",
+        "videoLink": "Pw68NsPPVSw"
+      },
+      {
+        "id": 10,
+        "name": "Where did you live before Almaty?",
+        "textKz": "-Сен Алматыға дейін қайда тұрдың?\n-Мен Семейде тұрдым\n- Осында қашан көшіп келдің?\n- Екі жыл бұрын",
+        "textEng": "- Where did you live before Almaty?\n- I lived in Semey.\n-  When did you move here?\n- 2 years ago",
+        "videoLink": "ih6YPRC91jE"
+      }
+    ],
+    "vocabulary": [
+      {
+        "id": 16,
+        "wordKz": "бару",
+        "wordEng": "go",
+        "useSample": ""
+      },
+      {
+        "id": 17,
+        "wordKz": "бардым",
+        "wordEng": "went",
+        "useSample": ""
+      },
+      {
+        "id": 18,
+        "wordKz": "жазу",
+        "wordEng": "write",
+        "useSample": ""
+      },
+      {
+        "id": 19,
+        "wordKz": "жаздым",
+        "wordEng": "wrote",
+        "useSample": ""
+      },
+      {
+        "id": 20,
+        "wordKz": "ие болу, бар",
+        "wordEng": "have",
+        "useSample": ""
+      },
+      {
+        "id": 21,
+        "wordKz": "болды",
+        "wordEng": "had",
+        "useSample": ""
+      },
+      {
+        "id": 22,
+        "wordKz": "істеу",
+        "wordEng": "do",
+        "useSample": ""
+      },
+      {
+        "id": 23,
+        "wordKz": "істедім",
+        "wordEng": "did",
+        "useSample": ""
+      },
+      {
+        "id": 24,
+        "wordKz": "сатып алу",
+        "wordEng": "buy",
+        "useSample": ""
+      },
+      {
+        "id": 25,
+        "wordKz": "сатып алдым",
+        "wordEng": "bought",
+        "useSample": ""
+      },
+      {
+        "id": 27,
+        "wordKz": "тамақ ішу",
+        "wordEng": "eat",
+        "useSample": ""
+      },
+      {
+        "id": 28,
+        "wordKz": "тамақ іштім",
+        "wordEng": "ate",
+        "useSample": ""
+      },
+      {
+        "id": 29,
+        "wordKz": "ішу",
+        "wordEng": "drink",
+        "useSample": ""
+      },
+      {
+        "id": 30,
+        "wordKz": "іштім",
+        "wordEng": "drunk",
+        "useSample": ""
+      },
+      {
+        "id": 31,
+        "wordKz": "үйрену, оқу",
+        "wordEng": "learn",
+        "useSample": ""
+      },
+      {
+        "id": 32,
+        "wordKz": "үйрендім, оқыдым",
+        "wordEng": "learnt",
+        "useSample": ""
+      },
+      {
+        "id": 33,
+        "wordKz": "алу",
+        "wordEng": "take",
+        "useSample": ""
+      },
+      {
+        "id": 34,
+        "wordKz": "алдым",
+        "wordEng": "took",
+        "useSample": ""
+      },
+      {
+        "id": 35,
+        "wordKz": "беру",
+        "wordEng": "give",
+        "useSample": ""
+      },
+      {
+        "id": 36,
+        "wordKz": "бердім",
+        "wordEng": "gave",
+        "useSample": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "position": 3,
+    "name": "Future Simple",
+    "lectureLink": "5SZDug993vU",
+    "practiceLink": "KPZHknn4C2k",
+    "dialogs": [
+      {
+        "id": 11,
+        "name": "Plans for tomorrow",
+        "textKz": "-Ертеңгіге жоспарларың бар ма?\n-Иә, мен азық- түлік дүкеніне барамын.  Сен ше?\n- Білмеймін. Мүмкін мен достарыммен кездесем",
+        "textEng": "- Do you have any plans for tomorrow?\n- Yes, I will go to the grocery store. And you?\n-  I don’t know. May be I will meet with my friends.",
+        "videoLink": "_Ndmi-pIc5M"
+      },
+      {
+        "id": 12,
+        "name": "I want to change my job",
+        "textKz": "-Болашақта мен жұмысымды ауыстырамын\n-Шын ба? Немен айналысқың келеді?\n- Маркетинг болады деп ойлаймын. Маған маркетинг қызықты.",
+        "textEng": "- In future I want to change my job\n- Really? What do you want to do?\n- I think it will be marketing.  I am keen on marketing",
+        "videoLink": "eQZ70H_cYbA"
+      },
+      {
+        "id": 13,
+        "name": "Will you travel anywhere the next summer?",
+        "textKz": "-Жазда бір жаққа барасыңдар ма?\n-Білмеймін, мүмкін  басқа қаладағы ата – әжеме барамыз\n- Күшті. Біз Түркияға барамыз",
+        "textEng": "- Will you travel anywhere the next summer?\n- I don’t know, maybe we will visit my grandparents in another city\n-  Cool, we will go to Turkey.",
+        "videoLink": "0sVic_PswmY"
+      },
+      {
+        "id": 14,
+        "name": "Plans for the next year?",
+        "textKz": "-Келесі жылға жоспарларың бар ма?\n-Университетке түскім келеді. Сен ше?\n- Біз жаңай үйге көшеміз деп ойламын",
+        "textEng": "- Do you have any plans for the next year?\n- I want to enter university. And you?\n-  We will move home, I guess",
+        "videoLink": "NLzZshCKGUs"
+      },
+      {
+        "id": 15,
+        "name": "What will you do this weekend?",
+        "textKz": "-Осы демалыста не істейсің?\n-Үйде кеш жасаймыз. Апайымның туған күні.\nКелгің келеді ме?\n- О, я келемін",
+        "textEng": "- What will you do this weekend?\n- I will have a party at home. It’s my sister’s birthday.\nDo you want to come?\n-  Oh, sure, I will",
+        "videoLink": "fKNQsW1HPEs"
+      }
+    ],
+    "vocabulary": [
+      {
+        "id": 37,
+        "wordKz": "келу",
+        "wordEng": "come (came)",
+        "useSample": ""
+      },
+      {
+        "id": 38,
+        "wordKz": "білу (білдім)",
+        "wordEng": "know (knew)",
+        "useSample": ""
+      },
+      {
+        "id": 40,
+        "wordKz": "ойлау (ойладым)",
+        "wordEng": "think (thought)",
+        "useSample": ""
+      },
+      {
+        "id": 41,
+        "wordKz": "алу (алдым)",
+        "wordEng": "get (got)",
+        "useSample": ""
+      },
+      {
+        "id": 42,
+        "wordKz": "есту (естідім)",
+        "wordEng": "hear",
+        "useSample": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "position": 4,
+    "name": "Pronouns",
+    "lectureLink": "FTmjsvuvlwA",
+    "practiceLink": "OyNguK4VgL4",
+    "dialogs": [
+      {
+        "id": 16,
+        "name": "Who are those people",
+        "textKz": "-Анау кісілер кім?\n-Бұл менің ағам мен оның жүріп жүрген қызы\n- Бізді көріп тұрған жоққой деймін",
+        "textEng": "- Who are those people?\n- That’s my brother and his girlfriend.\n- I think they don’t see us",
+        "videoLink": "qZlO1v9OPmE"
+      },
+      {
+        "id": 17,
+        "name": "Colleagues",
+        "textKz": "-Сен әріптестеріңмен бір жаққа шығып тұрасың ба?\n-Жоқ, жиі емес,  мен оларды онша жақсы білмеймін.  Сен?\n- Жоқ, олардың жанұялары бар, олардың әрдайым қолдары бос емес",
+        "textEng": "- Do you go out with colleagues sometimes?\n- Not often, I don’t know them very well. You?\n-  No, they have their families, so they are busy",
+        "videoLink": "-OTSFVCc-zE"
+      },
+      {
+        "id": 18,
+        "name": "Did you see a new car",
+        "textKz": "-Сен біздің жаңа көлігімізді көрдің бе?\n-Жоқ, қандай?\n- Lexus.  Әкеме өте ұнап жүр",
+        "textEng": "- Did you see our new car?\n- No, I didn’t. What is it?\n-  It’s Lexus. My dad is enjoying it.",
+        "videoLink": "GyglnsazpOQ"
+      },
+      {
+        "id": 19,
+        "name": "Do you know this guy",
+        "textKz": "-Фотодағы жігітті білесің бе?\n-О, иә, мен онымен университетте оқынмын. Сен оны қайдан білесің?\n- Мен оның ата-анасын танимын",
+        "textEng": "- Do you know this guy in the photo?\n- Oh, yes, I studied with him at university. How do you know him?\n-  I know his parents.",
+        "videoLink": "JmZUpNt3tvE"
+      },
+      {
+        "id": 20,
+        "name": "Where did you meet your wife",
+        "textKz": "-Сен жұбайыңды қайда кездестірдің?\n-Бір кеште кездестіргенмін\n- О, қызық",
+        "textEng": "- Where did you meet your wife?\n- I met her at a party\n-  Wow interesting",
+        "videoLink": "bxdtkjmXqCk"
+      }
+    ],
+    "vocabulary": []
+  },
+  {
+    "id": 5,
+    "position": 5,
+    "name": "Questions",
+    "lectureLink": "yL2AiZc_Bik",
+    "practiceLink": "tFlMhMwJkXc",
+    "dialogs": [
+      {
+        "id": 21,
+        "name": "What do you think of the book",
+        "textKz": "-Кітап жайлы не ойлайсың?\n-Маған ұнаған жоқ\n- Неге?\n- Білмеймін, ішті пыстарады",
+        "textEng": "- What do you think of the book?\n- I didn’t like it\n-  Why?\n- I don’t know, it was boring.",
+        "videoLink": "uic-kp_5CAw"
+      },
+      {
+        "id": 22,
+        "name": "When will you start learning",
+        "textKz": "-Француз тілін үйренуді қашан бастайсың?\n-Келесі ай бастаймын. Сен ше?\n- Ой, мен өткен апта бастағанмын",
+        "textEng": "- When will you start learning French?\n- I will start it next month. You?\n-  Oh, I started it last week. ",
+        "videoLink": "Vk8OqEBgmN8"
+      },
+      {
+        "id": 23,
+        "name": "Are you free this weekend",
+        "textKz": "-Осы демалыста боссың ба?\n-Иә,  деп ойлаймын\n- Киноға барғың келеді ме?\n- Иә, жақсы ой",
+        "textEng": "- Are you free this weekend?\n- I think so\n– Would you like to go to cinema?\n- Yes, good idea!",
+        "videoLink": "Y8Es01-O2TM"
+      },
+      {
+        "id": 24,
+        "name": "What do you want to do after the class",
+        "textKz": "-Сабақтан кейін не істегің келеді?\n-Тіс дәрігеріне барамын. Сағат үшке дейін сонда болуым керек.\n- Түсінікті. Келесі апта мамамның туған күні.\nСоған бірдеңе сатып алу керек",
+        "textEng": "- What do you want to do after the class?\n- I will go to a dentist. I need to be there before 3 pm.\n- I see. My mom’s birthday is on the next week.\nSo I need to buy something for her.",
+        "videoLink": "megp4TS8L9M"
+      }
+    ],
+    "vocabulary": [
+      {
+        "id": 43,
+        "wordKz": "Не? Қандай?",
+        "wordEng": "What?",
+        "useSample": ""
+      },
+      {
+        "id": 44,
+        "wordKz": "Кім?",
+        "wordEng": "Who?",
+        "useSample": ""
+      },
+      {
+        "id": 45,
+        "wordKz": "Қайда? Қайдан?",
+        "wordEng": "Where?",
+        "useSample": ""
+      },
+      {
+        "id": 46,
+        "wordKz": "Қашан?",
+        "wordEng": "When?",
+        "useSample": ""
+      },
+      {
+        "id": 47,
+        "wordKz": "Неге?",
+        "wordEng": "Why?",
+        "useSample": ""
+      },
+      {
+        "id": 48,
+        "wordKz": "Қалай?",
+        "wordEng": "How?",
+        "useSample": ""
+      },
+      {
+        "id": 49,
+        "wordKz": "Қанша?",
+        "wordEng": "How much?",
+        "useSample": ""
+      },
+      {
+        "id": 50,
+        "wordKz": "күн",
+        "wordEng": "Day",
+        "useSample": ""
+      },
+      {
+        "id": 51,
+        "wordKz": "апта",
+        "wordEng": "Week",
+        "useSample": ""
+      },
+      {
+        "id": 52,
+        "wordKz": "демалыс күн",
+        "wordEng": "Weekend",
+        "useSample": ""
+      },
+      {
+        "id": 53,
+        "wordKz": "ай",
+        "wordEng": "Month",
+        "useSample": ""
+      },
+      {
+        "id": 54,
+        "wordKz": "жыл",
+        "wordEng": "Year",
+        "useSample": ""
+      },
+      {
+        "id": 55,
+        "wordKz": "бүгін",
+        "wordEng": "Today",
+        "useSample": ""
+      },
+      {
+        "id": 56,
+        "wordKz": "кеше",
+        "wordEng": "Yesterday",
+        "useSample": ""
+      },
+      {
+        "id": 57,
+        "wordKz": "ертең",
+        "wordEng": "Tomorrow",
+        "useSample": ""
+      },
+      {
+        "id": 58,
+        "wordKz": "қазір",
+        "wordEng": "Now",
+        "useSample": ""
+      },
+      {
+        "id": 59,
+        "wordKz": "бұрын",
+        "wordEng": "Ago",
+        "useSample": "Two years ago – Екі жыл бұрын"
+      },
+      {
+        "id": 60,
+        "wordKz": "алдыңғы, өткен",
+        "wordEng": "Last",
+        "useSample": "Last week – өткен апта"
+      },
+      {
+        "id": 61,
+        "wordKz": "осы",
+        "wordEng": "This",
+        "useSample": "this week – осы апта"
+      },
+      {
+        "id": 62,
+        "wordKz": "келесі",
+        "wordEng": "Next",
+        "useSample": "next week – келесі апта"
+      },
+      {
+        "id": 63,
+        "wordKz": "дейін",
+        "wordEng": "Before",
+        "useSample": ""
+      },
+      {
+        "id": 64,
+        "wordKz": "кейін",
+        "wordEng": "After",
+        "useSample": ""
+      },
+      {
+        "id": 65,
+        "wordKz": "тегін, бос",
+        "wordEng": "Free",
+        "useSample": ""
+      },
+      {
+        "id": 66,
+        "wordKz": "жылы",
+        "wordEng": "Warm",
+        "useSample": ""
+      },
+      {
+        "id": 67,
+        "wordKz": "үлкен",
+        "wordEng": "Big",
+        "useSample": ""
+      },
+      {
+        "id": 68,
+        "wordKz": "іш пыстырған, қызықсыз",
+        "wordEng": "Boring",
+        "useSample": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "position": 6,
+    "name": "To be",
+    "lectureLink": "DnxI_oqUZP0",
+    "practiceLink": "GHZDg8BnIcY",
+    "dialogs": [],
+    "vocabulary": []
+  },
+  {
+    "id": 7,
+    "position": 7,
+    "name": "Hobbies",
+    "lectureLink": "",
+    "practiceLink": "",
+    "dialogs": [
+      {
+        "id": 25,
+        "name": "Listen to music",
+        "textKz": "-Сен қандай музыка тыңдағанды ұнатасың?\n-Мен хип- хоп ұнатамын\n- Маған поп музыка ұнайды, бірақ хип- хопқа еш қарсылығым жоқ",
+        "textEng": "- What kind of music do you listen to?\n- I like hip- hop. And you?\n– I prefer pop music, but I don’t mind hip-hop too.",
+        "videoLink": "Pun5IYvuZA8"
+      },
+      {
+        "id": 26,
+        "name": "Have a party",
+        "textKz": "-Бізде ертең кеш болады. Келгің келеді ме?\n-О, рахмет, келемін\n- Жақсы, сағат кешкі 6",
+        "textEng": "- We will have a party tomorrow. Do you want to come?\n- Oh, thank you, I will\n– Great, at 6 pm",
+        "videoLink": "6LALGH8P-0Q"
+      },
+      {
+        "id": 27,
+        "name": "Eat junk food",
+        "textKz": "-Мен бургерлерді жек көремін. Бұл зиян тамақ қой.\n-Білемін, бірақ олар дәмді болады.\n- Ол шын. Қарным ашып кетті – бір нәрсе жеуге алайықшы\n- Жарайды",
+        "textEng": "- I hate burgers. It’s junk food\n- I know, but they are so delicious\n– That’s true. I am hungry – let’s get something to eat\n- Ok",
+        "videoLink": "9I2bLWd0Ock"
+      },
+      {
+        "id": 28,
+        "name": "Do sports",
+        "textKz": "-Сен спортпен айналысасың ба?\n-Иә, мен теннис ойнамын. Сен ше?\n- Мен аптасына үш рет каратемен айналысамын.\n- О, қызықты",
+        "textEng": "- Do you do any sports?\n- Yes, I do. I play tennis. And you?\n– I do karate 3 times a week.\n- Oh, sounds cool",
+        "videoLink": "NGh3v0IIycA"
+      },
+      {
+        "id": 29,
+        "name": "Watch TV",
+        "textKz": "-Сен теледидардан не көресің?\n-Мен теледидар қарамаймын, шынымды айтсам Ютюб көруді қалаймын.\n-Жарайды, онда не көресің?\n- Әдетте ағылшынша видео сабақтар",
+        "textEng": "- What do you watch on TV?\n- I don’t watch TV, to be honest. I prefer Youtube.\n– Ok, what do you watch there?\n- Usually English video lessons",
+        "videoLink": "HL3ypXhaUnU"
+      },
+      {
+        "id": 30,
+        "name": "Read newspapers",
+        "textKz": "-Сен жаңалықты қайдан оқисың?\n-Мен газет сатып аламын\n- Шын ба? Ондай жауапты күтпедім.\n-Мен жаңалықты интернеттен оқимын",
+        "textEng": "- Where do you read news?\n- I get newspapers\n– Really? That is surprising.\nI go online to read news",
+        "videoLink": "qAUtdjQI9No"
+      },
+      {
+        "id": 31,
+        "name": "Play video games",
+        "textKz": "-Сенің ұлың видео ойындар ойнайды ма?\n-Иә, көп ойнайды\n- Менің де ұлым сол",
+        "textEng": "- Does your son play video games?\n- Yes and he plays them a lot\n– My son does too!",
+        "videoLink": "zuZms76F64k"
+      }
+    ],
+    "vocabulary": [
+      {
+        "id": 69,
+        "wordKz": "Кеш ұйымдастыру",
+        "wordEng": "Have a party",
+        "useSample": ""
+      },
+      {
+        "id": 70,
+        "wordKz": "Газет оқу",
+        "wordEng": "Read newspapers",
+        "useSample": ""
+      },
+      {
+        "id": 71,
+        "wordKz": "Спортпен айналысу",
+        "wordEng": "Do sport",
+        "useSample": ""
+      },
+      {
+        "id": 72,
+        "wordKz": "Зиян тамақ жеу",
+        "wordEng": "Eat junk food",
+        "useSample": ""
+      },
+      {
+        "id": 73,
+        "wordKz": "Видео ойындар ойнау",
+        "wordEng": "Play video games",
+        "useSample": ""
+      },
+      {
+        "id": 74,
+        "wordKz": "Теледидар көру",
+        "wordEng": "Watch TV",
+        "useSample": ""
+      },
+      {
+        "id": 75,
+        "wordKz": "Музыка тыңдау",
+        "wordEng": "Listen to music",
+        "useSample": ""
+      },
+      {
+        "id": 76,
+        "wordKz": "дәмді тамақ",
+        "wordEng": "Delicious food",
+        "useSample": ""
+      },
+      {
+        "id": 77,
+        "wordKz": "Музыканың түрлері",
+        "wordEng": "Kind of music",
+        "useSample": ""
+      },
+      {
+        "id": 78,
+        "wordKz": "Интернетке кіру",
+        "wordEng": "Go online",
+        "useSample": ""
+      },
+      {
+        "id": 79,
+        "wordKz": "Ағылшын сабақтары",
+        "wordEng": "English lessons",
+        "useSample": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "position": 8,
+    "name": "Уақытты айту",
+    "lectureLink": "TUEb7152v54",
+    "practiceLink": "",
+    "dialogs": [
+      {
+        "id": 32,
+        "name": "Get home",
+        "textKz": "-Мен саған үйге жеткенде звондаймын\n-Ол нешеде болады?\n- Сағат 6:30",
+        "textEng": "- I will call you back when I get home\n- What time will it be?\n– At 6:30.",
+        "videoLink": "alERuoNvOqQ"
+      },
+      {
+        "id": 33,
+        "name": "Get up",
+        "textKz": "-Сен нешеде тұрасың?\n-Жұмыс күндері сағат таңғы 7 - де\n- Ал демалыс күндері ше?\n- Әдетте сағат 9 -да",
+        "textEng": "- What time do you get up?\n- On weekdays at 7:00 am\n– And at the weekends?\n- Usually at 9:00",
+        "videoLink": "ME0jKU2uIq4"
+      },
+      {
+        "id": 34,
+        "name": "Go to bed",
+        "textKz": "-Ұйықтар алдында не істейсің?\n-Мен кітаптар оқимын. Сен ше?\n- Кейде мен теледидар көремін, кейде кітаптар оқимын",
+        "textEng": "- What do you do before you go to sleep?\n- I read books. And you?\n– Sometimes I watch TV, sometimes read books too",
+        "videoLink": "MVGLnas763o"
+      },
+      {
+        "id": 35,
+        "name": "Have breakfast",
+        "textKz": "-Сен таңғы, түскі және кешкі астарыңды қашан ішесің?\n-Таңғы ас 8:00 де, түскі сағат 1:00 де, кешкісі 7:00 де",
+        "textEng": "- What time do you have your breakfast, lunch and dinner?\n- I have breakfast at 8:00 am, lunch at 1:00 pm and dinner at 7:00 pm",
+        "videoLink": "lJhPk4w3oxQ"
+      },
+      {
+        "id": 36,
+        "name": "Leave home",
+        "textKz": "-Сен үйден нешеде шығасын? Сен алып кетейін.\n-Әдетте 7:30 – 7:45 арасында\n- Мен ертен сағат 7:30 да боламын\n- Жақсы",
+        "textEng": "- What time do you leave home. I will pick you up.\n- Usually between 7:30- 7:45\n – I will be there tomorrow at 7:30\n- Ok",
+        "videoLink": "-ztrLKjbHrg"
+      }
+    ],
+    "vocabulary": [
+      {
+        "id": 80,
+        "wordKz": "таңертең тұру",
+        "wordEng": "Get up",
+        "useSample": ""
+      },
+      {
+        "id": 81,
+        "wordKz": "ұйқыға жату",
+        "wordEng": "Go to bed",
+        "useSample": ""
+      },
+      {
+        "id": 82,
+        "wordKz": "үйге жету",
+        "wordEng": "Get home",
+        "useSample": ""
+      },
+      {
+        "id": 83,
+        "wordKz": "үйден шығу",
+        "wordEng": "Leave home",
+        "useSample": ""
+      },
+      {
+        "id": 84,
+        "wordKz": "қайта звондау",
+        "wordEng": "Call back",
+        "useSample": ""
+      },
+      {
+        "id": 85,
+        "wordKz": "жұмыс күндері",
+        "wordEng": "Weekdays",
+        "useSample": ""
+      },
+      {
+        "id": 86,
+        "wordKz": "демалыс күні",
+        "wordEng": "Weekend",
+        "useSample": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "position": 9,
+    "name": "Guests",
+    "lectureLink": "",
+    "practiceLink": "",
+    "dialogs": [
+      {
+        "id": 37,
+        "name": "What does a good guest do",
+        "textKz": "-Жақсы қонақ не істейді?\n-Әрқалай, мысалы, олар ақша немесе бір сыйлық алып келе алады\n- Бұл шынымен маңызды ма?\n- Қалжын. Уақытында келсе- бұл да жақсы",
+        "textEng": "- What does a good guest do?\n- It depends, for example, they can bring money or gifts\n– Is that  really important?\n- I am kidding. If they come on time, that is good.",
+        "videoLink": "xvENIy-ORnI"
+      },
+      {
+        "id": 38,
+        "name": "Do you like having guests",
+        "textKz": "-Сен қонақ күткенді ұнатасың ба?\n-Иә, ұнатамын\n- Несі ұнайды?\n- Достарымды үйде күту әрдайым көңілді",
+        "textEng": "- Do you like having guests?\n- Yes, I do\n– What do you like about it?\n- Well, it is always fun to have my friends over.",
+        "videoLink": "M8QB20m76eQ"
+      },
+      {
+        "id": 39,
+        "name": "What does a bad guest do",
+        "textKz": "-Жаман қонақ не істейді? Қалай ойлайсың?\n-Олар әрдайым у-шу, салақ және әрдайым кешігеді\n- Мен келісемін",
+        "textEng": "- What does a bad guest do? What do you think?\n- They are usually very noisy, they are messy and they are always late\n– I agree",
+        "videoLink": "tfML_8dT7pQ"
+      }
+    ],
+    "vocabulary": [
+      {
+        "id": 87,
+        "wordKz": "Қонақтар",
+        "wordEng": "Guests",
+        "useSample": ""
+      },
+      {
+        "id": 88,
+        "wordKz": "Көңілді, көңіл",
+        "wordEng": "Fun",
+        "useSample": ""
+      },
+      {
+        "id": 89,
+        "wordKz": "Достарды қонақ ретінде күту",
+        "wordEng": "Have friends over",
+        "useSample": ""
+      },
+      {
+        "id": 90,
+        "wordKz": "Шулы",
+        "wordEng": "Noisy",
+        "useSample": ""
+      },
+      {
+        "id": 91,
+        "wordKz": "Салақ, лас",
+        "wordEng": "Messy",
+        "useSample": ""
+      },
+      {
+        "id": 92,
+        "wordKz": "Кешігу",
+        "wordEng": "To be late",
+        "useSample": ""
+      },
+      {
+        "id": 93,
+        "wordKz": "Ақша алып келу",
+        "wordEng": "Bring money",
+        "useSample": ""
+      },
+      {
+        "id": 94,
+        "wordKz": "Сыйлықтар алып келу",
+        "wordEng": "Bring gifts",
+        "useSample": ""
+      },
+      {
+        "id": 95,
+        "wordKz": "Маңызды",
+        "wordEng": "Important",
+        "useSample": ""
+      },
+      {
+        "id": 96,
+        "wordKz": "Қалжындаймын",
+        "wordEng": "I am kidding",
+        "useSample": ""
+      },
+      {
+        "id": 97,
+        "wordKz": "Уақытында келу",
+        "wordEng": "Come on time",
+        "useSample": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "position": 10,
+    "name": "Family and friends",
+    "lectureLink": "",
+    "practiceLink": "",
+    "dialogs": [
+      {
+        "id": 40,
+        "name": "Tell about your family",
+        "textKz": "-Жанұяң жайлы айтып бере аласың ба?\n-Менің әкем, анам және ата-әжем бар\n- Жалғыз бала екесің ғой?\n- Иә, бірақ менің жиен-бөлелерім көп. Менің ағаларым мен апайларым бізге жиі келіп тұрады.",
+        "textEng": "- Can you tell me about your family?\n- I’ve got my father, mother, grandparents\n – So you are the only child?\n- Yes, but I’ve got many cousins, nieces and nephews. My uncles and aunts often visit us",
+        "videoLink": "I2pdI6kRMnI"
+      },
+      {
+        "id": 41,
+        "name": "Big family vs small one",
+        "textKz": "-Не жақсырақ: үлкен жанұя ма әлде шағын ба?\n-Мен ойымша үлкен , балалар бір-бірін қолдап жүреді\n- Мен үшін шағыны жақсы – бүкіл назар сенде",
+        "textEng": "- What is better: a big family or a small one?\n- I think a big one, children can support each other\n– For me it is a small family – you get all the attention",
+        "videoLink": "S4GTkTbj5Io"
+      },
+      {
+        "id": 42,
+        "name": "Friends",
+        "textKz": "-Қанша досың ба?\n-Менде көп дос бар: сыныптастар, группаластар, әріптестер\n- Әдетте бірге не істейсіңдер?\n- Сыртқа көп шығамыз, кинотеатрға барамыз, тағы басқа",
+        "textEng": "- How many friends do you have?\n- I have many friends: classmates, groupmates, colleagues\n– What do you usually do together?\n- Well, we go out a lot, go to a cinema and so on",
+        "videoLink": "_iZLiZFchEQ"
+      },
+      {
+        "id": 43,
+        "name": "How do you spend time",
+        "textKz": "-Сен бос уақытыңды қалай өткізесің?\n-Мен кітап оқимын, сериал мен кино көремін.Сен ше?\n- Мен спортпен көп айналысамын: жүгіру, жүзу",
+        "textEng": "- How do you spend your free time?\n- I read books, watch shows and movies. And you?\n– I do sports a lot: jogging, swimming",
+        "videoLink": "ac4QyhOTBx0"
+      },
+      {
+        "id": 44,
+        "name": "Real friends",
+        "textKz": "-Өзіңнің ең жақын досың жайлы айтып берші\n-Ол мейірімді, сөзшең және ақылды. Ал сенің досың?\n- Ол өте байсалды",
+        "textEng": "- Tell me about your best friend\n- He is kind, talkative and clever. And your friend?\n– She is really  quiet",
+        "videoLink": "ExHdzV1sJNE"
+      },
+      {
+        "id": 45,
+        "name": "Separately or together",
+        "textKz": "-Менің 4 туған  ағам мен апайым бар\n-Қазір барлығың бірге тұрасыңдар ма?\n- Жоқ, үлкен ағам бөлек тұрады. Оның өз жанұясы бар\n- Түсінікті, ал мен үйде жалғыз баламын",
+        "textEng": "- I have 4 siblings: two brothers and two sisters\n- And do they all live with you now?\n– No, they don’t. My elder brother lives separately. He has his own family\n- I see, I am the only child in my family",
+        "videoLink": "jaGNFi7rboU"
+      }
+    ],
+    "vocabulary": [
+      {
+        "id": 98,
+        "wordKz": "мама, ана",
+        "wordEng": "mother",
+        "useSample": ""
+      },
+      {
+        "id": 99,
+        "wordKz": "папа, әке",
+        "wordEng": "father",
+        "useSample": ""
+      },
+      {
+        "id": 100,
+        "wordKz": "ата –әже",
+        "wordEng": "grandparents",
+        "useSample": ""
+      },
+      {
+        "id": 101,
+        "wordKz": "аға (дядя)",
+        "wordEng": "uncle",
+        "useSample": ""
+      },
+      {
+        "id": 102,
+        "wordKz": "апай (тётя)",
+        "wordEng": "aunt",
+        "useSample": ""
+      },
+      {
+        "id": 103,
+        "wordKz": "жиен, іні  (племянник)",
+        "wordEng": "nephew",
+        "useSample": ""
+      },
+      {
+        "id": 104,
+        "wordKz": "жиен, қарындас (племянница)",
+        "wordEng": "niece",
+        "useSample": ""
+      },
+      {
+        "id": 105,
+        "wordKz": "бөле, жиен (двоюродный брат или сестра)",
+        "wordEng": "cousin",
+        "useSample": ""
+      },
+      {
+        "id": 106,
+        "wordKz": "туған аға – апайлар",
+        "wordEng": "sibling",
+        "useSample": ""
+      },
+      {
+        "id": 107,
+        "wordKz": "үлкен аға",
+        "wordEng": "elder brother",
+        "useSample": ""
+      },
+      {
+        "id": 108,
+        "wordKz": "бауыр, іні",
+        "wordEng": "little brother",
+        "useSample": ""
+      },
+      {
+        "id": 109,
+        "wordKz": "жалғыз бала",
+        "wordEng": "the only child",
+        "useSample": ""
+      },
+      {
+        "id": 110,
+        "wordKz": "бір – бірін қолдау",
+        "wordEng": "support each other",
+        "useSample": ""
+      },
+      {
+        "id": 111,
+        "wordKz": "назар",
+        "wordEng": "attention",
+        "useSample": ""
+      },
+      {
+        "id": 112,
+        "wordKz": "сыныптас",
+        "wordEng": "classmates",
+        "useSample": ""
+      },
+      {
+        "id": 113,
+        "wordKz": "группалас",
+        "wordEng": "groupmates",
+        "useSample": ""
+      },
+      {
+        "id": 114,
+        "wordKz": "әріптес",
+        "wordEng": "colleagues",
+        "useSample": ""
+      },
+      {
+        "id": 115,
+        "wordKz": "бір жаққа шығу",
+        "wordEng": "go out",
+        "useSample": ""
+      },
+      {
+        "id": 116,
+        "wordKz": "кинотеатрға бару",
+        "wordEng": "go to cinema",
+        "useSample": ""
+      },
+      {
+        "id": 117,
+        "wordKz": "бірге",
+        "wordEng": "together",
+        "useSample": ""
+      },
+      {
+        "id": 118,
+        "wordKz": "бөлек",
+        "wordEng": "separately",
+        "useSample": ""
+      },
+      {
+        "id": 119,
+        "wordKz": "уақыт өткізу",
+        "wordEng": "spend time",
+        "useSample": ""
+      },
+      {
+        "id": 120,
+        "wordKz": "байланыста болу",
+        "wordEng": "keep in touch",
+        "useSample": ""
+      },
+      {
+        "id": 121,
+        "wordKz": "байланысты үзу",
+        "wordEng": "lost touch",
+        "useSample": ""
+      },
+      {
+        "id": 122,
+        "wordKz": "өкінішті",
+        "wordEng": "too bad",
+        "useSample": ""
+      },
+      {
+        "id": 123,
+        "wordKz": "ең жақын дос",
+        "wordEng": "best friend",
+        "useSample": ""
+      },
+      {
+        "id": 124,
+        "wordKz": "жақын дос",
+        "wordEng": "close friend",
+        "useSample": ""
+      },
+      {
+        "id": 125,
+        "wordKz": "сөзшең",
+        "wordEng": "talkative",
+        "useSample": ""
+      },
+      {
+        "id": 126,
+        "wordKz": "мейірімді",
+        "wordEng": "kind",
+        "useSample": ""
+      },
+      {
+        "id": 127,
+        "wordKz": "ақылды",
+        "wordEng": "clever",
+        "useSample": ""
+      },
+      {
+        "id": 128,
+        "wordKz": "байсалды",
+        "wordEng": "quiet",
+        "useSample": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "position": 11,
+    "name": "Meeting friends",
+    "lectureLink": "",
+    "practiceLink": "",
+    "dialogs": [
+      {
+        "id": 46,
+        "name": "Twice a month",
+        "textKz": "",
+        "textEng": "",
+        "videoLink": "hqgMTnJfP80"
+      },
+      {
+        "id": 47,
+        "name": "Three times a year",
+        "textKz": "-Сен отпуск қаншалықты жиі алып тұрасың?\n-Жылына үш рет",
+        "textEng": "- How often do you get holidays?\n– Three times a year",
+        "videoLink": "sEAHr41Veb4"
+      },
+      {
+        "id": 48,
+        "name": "Rarely and hardly ever",
+        "textKz": "-Сен видео ойындар ойнайсың ба?\n-Иә, бірақ өте сирек. Сен ше?\n- Мен де, өте сирек",
+        "textEng": "- Do you play video games?\n– Yes, but really rarely. And you?\n- Me too, hardy ever",
+        "videoLink": "QCBozYBzlsc"
+      },
+      {
+        "id": 49,
+        "name": "Once a week",
+        "textKz": "-Апайың қаншалықты жиі тамақ алып тұрады?\n-Аптасына бір рет. Әдетте сенбі күні.",
+        "textEng": "- How often does your sister go for food shopping?\n- Once a week, on Saturday usually",
+        "videoLink": "3poc7a9aiDw"
+      },
+      {
+        "id": 50,
+        "name": "Every day",
+        "textKz": "-Сен қаншалықты жиі жаттығып тұрасың?\n-Күнделікке жуық. Жексенбі күні дем аламын.\n- Уау, күшті (күшті естіледі)",
+        "textEng": "- How often do you exercise?\n- Almost every day. I have a day off on Sunday\n– Wow, that’s sounds cool.",
+        "videoLink": "U2_bZHdIN6M"
+      },
+      {
+        "id": 51,
+        "name": "Always and never",
+        "textKz": "-Сен әдетте демалыс күндерін қалай өткізесің?\n-Мен әрдайым достарыммен кездесемін. Сен?\n- Мен де ешқашан демалыстарымды жалғыз өткізбеймін",
+        "textEng": " - How do you usually spend your weekend?\n- I always get together with friends. You?\n– I never spend weekends alone too",
+        "videoLink": "eXnV7NR-bvA"
+      },
+      {
+        "id": 52,
+        "name": "Usually and sometimes",
+        "textKz": "-Сен әдетте жұмыстан кейін не істейсің?\n-Әдетте мен жанұяма кешкі жас істеймін. Кейде басқа жерде тамақ ішеміз",
+        "textEng": "- What do you usually do after work?\n– I usually make dinner for my family. But sometimes we eat out",
+        "videoLink": "5EPJ1uLHGqU"
+      }
+    ],
+    "vocabulary": []
+  }
+]

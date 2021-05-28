@@ -25,6 +25,10 @@
 		3419D672265E1D5A00E24405 /* DetailTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3419D670265E1D5A00E24405 /* DetailTableCell.swift */; };
 		3419D673265E1D5A00E24405 /* DetailTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3419D671265E1D5A00E24405 /* DetailTableCell.xib */; };
 		FB726C922661204F00690782 /* AppUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB726C912661204F00690782 /* AppUtil.swift */; };
+		FB726C96266121DC00690782 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB726C95266121DC00690782 /* DataService.swift */; };
+		FB726C9B2661221000690782 /* Lesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB726C9A2661221000690782 /* Lesson.swift */; };
+		FB726C9F2661222B00690782 /* Dialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB726C9E2661222B00690782 /* Dialog.swift */; };
+		FB726CA22661224400690782 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB726CA12661224400690782 /* Word.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +52,10 @@
 		3419D670265E1D5A00E24405 /* DetailTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailTableCell.swift; sourceTree = "<group>"; };
 		3419D671265E1D5A00E24405 /* DetailTableCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailTableCell.xib; sourceTree = "<group>"; };
 		FB726C912661204F00690782 /* AppUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppUtil.swift; sourceTree = "<group>"; };
+		FB726C95266121DC00690782 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		FB726C9A2661221000690782 /* Lesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson.swift; sourceTree = "<group>"; };
+		FB726C9E2661222B00690782 /* Dialog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dialog.swift; sourceTree = "<group>"; };
+		FB726CA12661224400690782 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +88,8 @@
 		3419D642265DCDC600E24405 /* AliEng */ = {
 			isa = PBXGroup;
 			children = (
-				FB726C902661202900690782 /* tool */,
+				FB726C99266121FE00690782 /* entity */,
+				FB726C94266121CA00690782 /* util */,
 				3419D66D265E1B0200E24405 /* Detail */,
 				3419D66A265E16A700E24405 /* Extensions */,
 				3419D665265E145100E24405 /* Cell */,
@@ -159,12 +168,23 @@
 			path = Detail;
 			sourceTree = "<group>";
 		};
-		FB726C902661202900690782 /* tool */ = {
+		FB726C94266121CA00690782 /* util */ = {
 			isa = PBXGroup;
 			children = (
 				FB726C912661204F00690782 /* AppUtil.swift */,
+				FB726C95266121DC00690782 /* DataService.swift */,
 			);
-			path = tool;
+			path = util;
+			sourceTree = "<group>";
+		};
+		FB726C99266121FE00690782 /* entity */ = {
+			isa = PBXGroup;
+			children = (
+				FB726C9A2661221000690782 /* Lesson.swift */,
+				FB726C9E2661222B00690782 /* Dialog.swift */,
+				FB726CA12661224400690782 /* Word.swift */,
+			);
+			path = entity;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,11 +259,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB726C9B2661221000690782 /* Lesson.swift in Sources */,
 				3419D66F265E1B8000E24405 /* DetailViewController.swift in Sources */,
+				FB726C96266121DC00690782 /* DataService.swift in Sources */,
 				3419D648265DCDC600E24405 /* ViewController.swift in Sources */,
+				FB726CA22661224400690782 /* Word.swift in Sources */,
 				3419D65E265DD0A300E24405 /* LectureViewController.swift in Sources */,
 				3419D660265DD0B500E24405 /* DialogViewController.swift in Sources */,
 				3419D65B265DCE4F00E24405 /* MainTabViewController.swift in Sources */,
+				FB726C9F2661222B00690782 /* Dialog.swift in Sources */,
 				3419D668265E146F00E24405 /* LectureCollectionCell.swift in Sources */,
 				3419D644265DCDC600E24405 /* AppDelegate.swift in Sources */,
 				FB726C922661204F00690782 /* AppUtil.swift in Sources */,
