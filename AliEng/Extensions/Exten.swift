@@ -9,6 +9,11 @@ import Foundation
 import UIKit
 
 
+var dialogCount = 0
+var goodAnswers = 0
+var badAnswers = 0
+
+
 extension CGFloat {
     static func random() -> CGFloat {
         return CGFloat(arc4random()) / CGFloat(UInt32.max)
