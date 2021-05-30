@@ -25,3 +25,14 @@ extension UIColor {
         )
     }
 }
+
+class Data {
+    var value:CGFloat
+    var color:UIColor = UIColor.gray
+
+    init(myValue:CGFloat, myColor:UIColor) {
+        value = myValue
+        color = myColor
+    
+    }
+}
